@@ -1,1 +1,1 @@
-# Deep-Learning
+Repository for samples demonstrating the fundamentals of deep learning
